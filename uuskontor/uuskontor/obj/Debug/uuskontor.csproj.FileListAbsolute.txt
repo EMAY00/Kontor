@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\uuskontor\uuskontor\bin\Debug\uuskontor.exe.config
+C:\Users\opilane\source\repos\uuskontor\uuskontor\bin\Debug\uuskontor.exe
+C:\Users\opilane\source\repos\uuskontor\uuskontor\bin\Debug\uuskontor.pdb
+C:\Users\opilane\source\repos\uuskontor\uuskontor\obj\Debug\uuskontor.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\uuskontor\uuskontor\obj\Debug\uuskontor.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\uuskontor\uuskontor\obj\Debug\uuskontor.exe
+C:\Users\opilane\source\repos\uuskontor\uuskontor\obj\Debug\uuskontor.pdb
